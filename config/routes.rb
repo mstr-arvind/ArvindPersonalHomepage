@@ -1,4 +1,8 @@
 Arvind::Application.routes.draw do
+  get "arvind_page/home"
+
+  get "arvind_page/contact"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
