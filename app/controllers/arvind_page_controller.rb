@@ -1,9 +1,9 @@
 class ArvindPageController < ApplicationController
   def home
-  	@title = 'Home!'
+  	@title = 'Home'
   end
 
   def contact
-  	@title = 'Contact'
+  	@title = 'Contact Info'
   end
 end
